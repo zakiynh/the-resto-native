@@ -1,0 +1,20 @@
+[
+    {
+        
+        "username": "Rodger",
+        "email": "rsimo0@bandcamp.com",
+        "password": "password",
+        "role": "admin",
+        "phoneNumber": "829-194-8553",
+        "address": "64281 Summerview Pass"
+    },
+    {
+        
+        "username": "Pammie",
+        "email": "phuglin1@constantcontact.com",
+        "password": "password",
+        "role": "admin",
+        "phoneNumber": "626-482-3343",
+        "address": "73 Oakridge Lane"
+    }
+]

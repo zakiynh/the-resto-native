@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Hand-Breaded Chicken Tenders",
+        "description": "Everything's better when it's handmade, including our 100% all white meat chicken tenders. Made right, every time and served with your choice of signature sauces.",
+        "price": 29200,
+        "imgUrl": "https://awrestaurants.com/sites/default/files/hbct.png",
+        "authorId": 1,
+        "categoryId": 1
+    },
+    {
+        "id": 2,
+        "name": "Cod Sliders",
+        "description": "A golden-fried cod filet, tartar sauce, and dill pickles on a soft potato bun.",
+        "price": 42384,
+        "imgUrl": "https://awrestaurants.com/sites/default/files/Cod%20Slider.png",
+        "authorId": 1,
+        "categoryId": 1
+    },
+    {
+        "id": 3,
+        "name": "Made Fresh Root Beer",
+        "description": "Our signature item since the opening of our first tiny Root Beer stand in 1919. It's still made fresh on site with real cane sugar and a proprietary blend of herbs, bark, spices and berries. This frosty mug deserves a celebration.",
+        "price": 14292,
+        "imgUrl": "https://awrestaurants.com/sites/default/files/rootbeer_0.png",
+        "authorId": 1,
+        "categoryId": 3
+    },
+    {
+        "id": 4,
+        "name": "Papa Burger",
+        "description": "Two juicy 100% U.S. Beef patties with two slices of melted American cheese. Finished off with lettuce, tomato, onion, pickles and our classic A&W Papa Sauce all on a lightly toasted bun… it doesn't get better than this.",
+        "price": 22097,
+        "imgUrl": "https://awrestaurants.com/sites/default/files/papaburger.png",
+        "authorId": 1,
+        "categoryId": 2
+    },
+    {
+        "id": 4,
+        "name": "Hot Dog",
+        "description": "A juicy all-beef* frank with no frills. It's just waiting for your favorite condiments. (*participating locations only).",
+        "price": 25097,
+        "imgUrl": "https://awrestaurants.com/sites/default/files/hotdog_0.png",
+        "authorId": 1,
+        "categoryId": 4
+    },
+    {
+        "id": 5,
+        "name": "Coney Cheese Dog",
+        "description": "The already-delicious Coney Dog, plus cheese sauce. Need we say more?.",
+        "price": 32097,
+        "imgUrl": "https://awrestaurants.com/sites/default/files/cheeseconey.png",
+        "authorId": 1,
+        "categoryId": 4
+    },
+    {
+        "id": 6,
+        "name": "Famous Floats",
+        "description": "Our world-renowned A&W® Root Beer made with real cane sugar and a blend of secret ingredients, topped with our creamy vanilla soft serve and served in a frosty mug. A classic treat. Grab a spoon and enjoy.",
+        "price": 25097,
+        "imgUrl": "https://awrestaurants.com/sites/default/files/rootbeerfloat_0.png",
+        "authorId": 1,
+        "categoryId": 3
+    },
+    {
+        "id": 7,
+        "name": "Coney Dog",
+        "description": "An A&W original. An all-beef* hot dog, served with your choice of toppings. Try it with our signature meaty chili sauce, onions…any way you like it. (*participating locations only).",
+        "price": 29097,
+        "imgUrl": "https://awrestaurants.com/sites/default/files/coney_0.png",
+        "authorId": 1,
+        "categoryId": 2
+    }
+]

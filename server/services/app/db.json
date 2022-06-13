@@ -1,0 +1,123 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Chicken"
+    },
+    {
+      "id": 2,
+      "name": "Burger"
+    },
+    {
+      "id": 3,
+      "name": "Root Beer"
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 1,
+      "name": "Egg, Milk/Dairy, Wheat, Soybean, Gluten, MSG",
+      "itemId": 1
+    },
+    {
+      "id": 2,
+      "name": "Egg, Milk/Dairy, Wheat, Fish",
+      "itemId": 2
+    },
+    {
+      "id": 3,
+      "name": "herbs, bark, spices and berries",
+      "itemId": 3
+    },
+    {
+      "id": 4,
+      "name": "Egg, Milk/Dairy, Wheat, Gluten",
+      "itemId": 4
+    }
+  ],
+  "items": [
+    {
+      "id": 1,
+      "name": "Hand-Breaded Chicken Tenders",
+      "description": "Everything's better when it's handmade, including our 100% all white meat chicken tenders. Made right, every time and served with your choice of signature sauces.",
+      "price": 29200,
+      "imgUrl": "https://awrestaurants.com/sites/default/files/hbct.png",
+      "authorId": 2,
+      "categoryId": 1
+    },
+    {
+      "id": 2,
+      "name": "Cod Sliders",
+      "description": "A golden-fried cod filet, tartar sauce, and dill pickles on a soft potato bun.",
+      "price": 42384,
+      "imgUrl": "https://awrestaurants.com/sites/default/files/Cod%20Slider.png",
+      "authorId": 2,
+      "categoryId": 1
+    },
+    {
+      "id": 3,
+      "name": "Made Fresh Root Beer",
+      "description": "Our signature item since the opening of our first tiny Root Beer stand in 1919. It's still made fresh on site with real cane sugar and a proprietary blend of herbs, bark, spices and berries. This frosty mug deserves a celebration.",
+      "price": 14292,
+      "imgUrl": "https://awrestaurants.com/sites/default/files/food_rootbeer.jpg",
+      "authorId": 1,
+      "categoryId": 3
+    },
+    {
+      "id": 4,
+      "name": "Papa Burger",
+      "description": "Two juicy 100% U.S. Beef patties with two slices of melted American cheese. Finished off with lettuce, tomato, onion, pickles and our classic A&W Papa Sauce all on a lightly toasted bun… it doesn't get better than this.",
+      "price": 22097,
+      "imgUrl": "https://awrestaurants.com/sites/default/files/papaburger.png",
+      "authorId": 2,
+      "categoryId": 2
+    },
+    {
+      "name": "weqweqwe",
+      "price": "123123",
+      "image": "asdasd",
+      "description": "asdasda",
+      "ingredient": "asdad",
+      "categoryId": "1",
+      "id": 5
+    },
+    {
+      "name": "data baru",
+      "price": "1234",
+      "image": "image",
+      "description": "data baru",
+      "ingredient": "ingredient baru",
+      "categoryId": "1",
+      "id": 6
+    },
+    {
+      "name": "adfasdfsdf",
+      "price": "123123",
+      "image": "asdfadfsadf",
+      "description": "adfsadfsdfsdf",
+      "ingredient": "asdfsdfsdfsdfrtertert",
+      "categoryId": "1",
+      "id": 7
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Rodger",
+      "email": "rsimo0@bandcamp.com",
+      "password": "password",
+      "role": "admin",
+      "phoneNumber": "829-194-8553",
+      "address": "64281 Summerview Pass"
+    },
+    {
+      "name": "jono",
+      "email": "jon@email.com",
+      "password": "123456",
+      "role": "admin",
+      "phoneNumber": "0987654321",
+      "address": "jauh",
+      "id": 2
+    }
+  ]
+}

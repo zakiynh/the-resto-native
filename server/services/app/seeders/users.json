@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "name": "Rodger",
+        "email": "rsimo0@bandcamp.com",
+        "password": "password"
+    },
+    {
+        "name": "jono",
+        "email": "jon@email.com",
+        "password": "123456",
+        "id": 2
+    }
+]
